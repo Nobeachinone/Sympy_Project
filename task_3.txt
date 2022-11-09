@@ -1,0 +1,5 @@
+\int_0^4 ((\frac{dx(t)}{dt})^{2} + x(t))dt
+x(0) = 0
+x(0) + x(4) \leq 0
+\frac{dx(t)}{dt} = u(t)
+|u(t)| \leq 1

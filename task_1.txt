@@ -1,0 +1,10 @@
+\int_0^4 ((\frac{dx(t)}{dt})^{2} + x(t))dt
+|u| \leq 1
+\frac{dx(t)}{dt} = u
+x(0) = 0
+\frac{x}{x+1}
+\sin(x^{2})
+\frac{\sin(x)}{x}
+x^{4} + 2 * x^{2} + 1 = 0
+\frac{d y(t)}{dt} - y(t) = \exp(t) 
+\frac{d\frac{dy(t)}{dt}}{dt} - y(t) = \exp(t)
