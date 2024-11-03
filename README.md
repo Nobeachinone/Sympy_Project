@@ -1,4 +1,5 @@
 # Sympy_Project
+## Goal
 Проект состоит в автоматизации символьных вычислений для задач управления и вариации. Основной целью является выписывание условий оптимальности для вариационных задач и задач управления с помощью метода Понтрягина для задач управления.
 
 Проект состоит из нескольких этапов:
@@ -9,4 +10,7 @@
     3. Условия дополняющей нежёсткости и неотрицательности
     4. Условие оптимума по управлению
 
-Пока проект находится в доработке, поэтому пока нет поэтапного описания
+## Summary
+1. Coding to ensure optimal management based on Pontryagin method and symbolic computation
+2. Searching for parser so that entry data written on LaTex could be identifiable
+3. Using Object-oriented programming (decorators, static methods) for class optimization
